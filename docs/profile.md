@@ -4,3 +4,5 @@ skills: full stack
 carrer goal: Want to become a successfull engineer
 
 Hobbies: coding
+ Certifications: SQL
+ 
