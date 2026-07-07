@@ -4,5 +4,7 @@ skills: full stack
 carrer goal: Want to become a successfull engineer
 
 Hobbies: coding
- Certifications: SQL
- 
+
+Certifications: SQL
+
+Contact Info: krishna.agarwal@rcvtechnologies.com
