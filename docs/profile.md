@@ -1,4 +1,6 @@
 name: krishna Agarwal
 Education: Btech
 skills: full stack
-carrer goal:engneer
+carrer goal: Want to become a successfull engineer
+
+Hobbies: coding
